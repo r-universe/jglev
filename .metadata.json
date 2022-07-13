@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "veccompare",
+    "oncran": true
+  }
+]
